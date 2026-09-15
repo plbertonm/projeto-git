@@ -9,8 +9,8 @@
     <p>Projeto criado para praticar Git e GitHub.</p>
     <h2>Membros do projeto</h2>
     <ul>
-        <li>Pedro H Barcelos: B</li>
-        <li>Pedro L B Marques: A</li>
+        <li>Pedro Hofman Barcelos: B</li>
+        <li>Pedro Lucidonio Berton Marques: A</li>
         <li>Nathanael Luca Serafin: A</li>
     </ul>
 </body>
