@@ -29,7 +29,5 @@
         <li>GitHub</li>
     </ul>
 
-    <h1>Projeto da dupla</h1>
-    <h1>Sistema desenvolvido em PHP</h1>
 </body>
 </html>
